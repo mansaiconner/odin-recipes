@@ -1,0 +1,10 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: darkblue;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: bold;;
+    background-color: red;;
+}
